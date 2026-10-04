@@ -1,0 +1,2909 @@
+[
+  {
+    "file": "sources/raw/poetry-source/source/曲/元/qu.元.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E6%9B%B2/%E5%85%83/qu.%E5%85%83.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/曲/元/qu.元.0000.base.json",
+    "sha256": "50400f519640aefe1a6aa8f7dfd975b895477d27c990562b054a175bc1d4b372",
+    "bytes": 303762
+  },
+  {
+    "file": "sources/raw/poetry-source/source/曲/南北朝/qu.南北朝.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E6%9B%B2/%E5%8D%97%E5%8C%97%E6%9C%9D/qu.%E5%8D%97%E5%8C%97%E6%9C%9D.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/曲/南北朝/qu.南北朝.0000.base.json",
+    "sha256": "9446e02dfd09ab6e879fed050f6f1a5adb98d42f7d46a398add449a6c5bbfa0f",
+    "bytes": 308
+  },
+  {
+    "file": "sources/raw/poetry-source/source/曲/宋/qu.宋.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E6%9B%B2/%E5%AE%8B/qu.%E5%AE%8B.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/曲/宋/qu.宋.0000.base.json",
+    "sha256": "42a551a2c7101b2c44909573790048afec24b4f2bc1e2ba094b6ff070781c86c",
+    "bytes": 3076
+  },
+  {
+    "file": "sources/raw/poetry-source/source/曲/明/qu.明.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E6%9B%B2/%E6%98%8E/qu.%E6%98%8E.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/曲/明/qu.明.0000.base.json",
+    "sha256": "51c1a672d835f77f0577d3672dcbbcb53e7f6510ca2a1e04d6e79334a248543b",
+    "bytes": 48796
+  },
+  {
+    "file": "sources/raw/poetry-source/source/曲/清/qu.清.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E6%9B%B2/%E6%B8%85/qu.%E6%B8%85.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/曲/清/qu.清.0000.base.json",
+    "sha256": "a8ceb6f681e4c3916bb4875e339064479f3d61b2e6fb243f3e247f12878813ae",
+    "bytes": 39261
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/五代十国/ci.五代十国.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E4%BA%94%E4%BB%A3%E5%8D%81%E5%9B%BD/ci.%E4%BA%94%E4%BB%A3%E5%8D%81%E5%9B%BD.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/五代十国/ci.五代十国.0000.base.json",
+    "sha256": "b35d4e512b125448b57b3301db742dd47ae947b358e94963aa13b073bed8c54c",
+    "bytes": 216829
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/元/ci.元.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E5%85%83/ci.%E5%85%83.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/元/ci.元.0000.base.json",
+    "sha256": "59309e5edc15da460dbc48c588fbfd6087467e0a2d9ec2960d72b7afecb231e8",
+    "bytes": 483088
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/元/ci.元.0001.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E5%85%83/ci.%E5%85%83.0001.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/元/ci.元.0001.base.json",
+    "sha256": "4d5696d7e2ce67a708a92e7916ee24186e98ac98fba527f220430cb9a7bfcf80",
+    "bytes": 472146
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/元/ci.元.0002.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E5%85%83/ci.%E5%85%83.0002.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/元/ci.元.0002.base.json",
+    "sha256": "19dc887ecf08454b33f26cc93ce68db7f2fde09a029492818db44b5cfa8bd453",
+    "bytes": 486517
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/元/ci.元.0003.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E5%85%83/ci.%E5%85%83.0003.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/元/ci.元.0003.base.json",
+    "sha256": "48f7f3a825cd565db5e85ef9476a363e1a30e8f158d132e9b71637808395947c",
+    "bytes": 469051
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/元/ci.元.0004.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E5%85%83/ci.%E5%85%83.0004.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/元/ci.元.0004.base.json",
+    "sha256": "32ea1d2c93911ca079e87b5654227b3609f4de498082fe037b9dc2529c722e4b",
+    "bytes": 491877
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/元/ci.元.0005.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E5%85%83/ci.%E5%85%83.0005.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/元/ci.元.0005.base.json",
+    "sha256": "bc66305ecba709fd654c0e517584d8d9f3b0bffe6524598e2b604acfecac47b5",
+    "bytes": 1843
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/南北朝/ci.南北朝.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E5%8D%97%E5%8C%97%E6%9C%9D/ci.%E5%8D%97%E5%8C%97%E6%9C%9D.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/南北朝/ci.南北朝.0000.base.json",
+    "sha256": "93e91808d1ad338cbdb2db02f67543ea7e75120bf4c24b18c8a4efc37134762b",
+    "bytes": 3282
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/唐/ci.唐.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E5%94%90/ci.%E5%94%90.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/唐/ci.唐.0000.base.json",
+    "sha256": "3219029147b5a2963cde5dafdaf83f4ba3d72a5a7a124d033adfc47ca63eaf05",
+    "bytes": 218816
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/宋/ci.宋.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E5%AE%8B/ci.%E5%AE%8B.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/宋/ci.宋.0000.base.json",
+    "sha256": "0e5dc86d3b82c469f2bb3d9212614def01157eccc080175d05bb7483165b760f",
+    "bytes": 448054
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/宋/ci.宋.0001.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E5%AE%8B/ci.%E5%AE%8B.0001.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/宋/ci.宋.0001.base.json",
+    "sha256": "e4650abe488a7c749a88d853b5c8e32d9ae328bb96d78296311ab778bc17148c",
+    "bytes": 493038
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/宋/ci.宋.0002.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E5%AE%8B/ci.%E5%AE%8B.0002.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/宋/ci.宋.0002.base.json",
+    "sha256": "8f0c7c753809323b0f96125aa6be346c29a8c3733e4f1eb198ff633d38afa453",
+    "bytes": 510567
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/宋/ci.宋.0003.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E5%AE%8B/ci.%E5%AE%8B.0003.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/宋/ci.宋.0003.base.json",
+    "sha256": "f3858833980a28fbd4bd1cd6805c4529be3dd7f3ddabc1347793d1dc3732bad8",
+    "bytes": 486294
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/宋/ci.宋.0004.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E5%AE%8B/ci.%E5%AE%8B.0004.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/宋/ci.宋.0004.base.json",
+    "sha256": "8915d6b01c4358e062163b86de4a2e17c24ab1b04bae47e7e1a4eac1d2d01592",
+    "bytes": 503580
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/宋/ci.宋.0005.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E5%AE%8B/ci.%E5%AE%8B.0005.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/宋/ci.宋.0005.base.json",
+    "sha256": "2b365eff340823a8a8fedada28519d513e0547ba0e1cbbade9412dcba87896e7",
+    "bytes": 503780
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/明/ci.明.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E6%98%8E/ci.%E6%98%8E.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/明/ci.明.0000.base.json",
+    "sha256": "efd095d956f67f13d17f49121e4f1ae199072f6430fd2aab36dbab7fd944044a",
+    "bytes": 447016
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/明/ci.明.0001.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E6%98%8E/ci.%E6%98%8E.0001.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/明/ci.明.0001.base.json",
+    "sha256": "4b0c1965241ebc2b34be4c672c0bacd731c3f34b00c9e3793d075314f6dde60e",
+    "bytes": 453853
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/明/ci.明.0002.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E6%98%8E/ci.%E6%98%8E.0002.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/明/ci.明.0002.base.json",
+    "sha256": "8793cdd854cc60537b57983564ac9d1a1c142e6a070063cd5abbf52a7a6f9c7a",
+    "bytes": 464620
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/明/ci.明.0003.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E6%98%8E/ci.%E6%98%8E.0003.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/明/ci.明.0003.base.json",
+    "sha256": "70872d3ce014c651b749fa58b3a986c1abf218152bbaf373fd7d404f1db90e0c",
+    "bytes": 276381
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/清/ci.清.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E6%B8%85/ci.%E6%B8%85.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/清/ci.清.0000.base.json",
+    "sha256": "b89f7aa0a2b47328f55797135fecd6bd1766ba2e1d0e592672389b94aa3de0ba",
+    "bytes": 491544
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/清/ci.清.0001.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E6%B8%85/ci.%E6%B8%85.0001.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/清/ci.清.0001.base.json",
+    "sha256": "166ccc10ff2a35680c4baeabd43ed7607aedb59973db730b0172ebacb6f825da",
+    "bytes": 518446
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/清/ci.清.0002.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E6%B8%85/ci.%E6%B8%85.0002.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/清/ci.清.0002.base.json",
+    "sha256": "c41bd92ae451092e9155dfef1e0b38bbbfc6a4e1063cc8aedd5ec8fa0e97f015",
+    "bytes": 523490
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/清/ci.清.0003.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E6%B8%85/ci.%E6%B8%85.0003.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/清/ci.清.0003.base.json",
+    "sha256": "20f60133be3057ece85e10011a242a63731bd80bfb596d086ef4251ff28eddbe",
+    "bytes": 485085
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/清/ci.清.0004.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E6%B8%85/ci.%E6%B8%85.0004.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/清/ci.清.0004.base.json",
+    "sha256": "1f30c6b16b97511e40765845a0cce8dfdbc2c4ced024d0cb946fba90979650c9",
+    "bytes": 533466
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/清/ci.清.0005.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E6%B8%85/ci.%E6%B8%85.0005.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/清/ci.清.0005.base.json",
+    "sha256": "f7593f084a2ba9ef9d1e5c4890fc6a45c4fc50736f97f62ccf690ef1d693630b",
+    "bytes": 466602
+  },
+  {
+    "file": "sources/raw/poetry-source/source/词/隋/ci.隋.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%8D/%E9%9A%8B/ci.%E9%9A%8B.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/词/隋/ci.隋.0000.base.json",
+    "sha256": "553a4ba4c23657082bfb498e0fb6d1e1656af91e114a3ce3082e91d857fc8d97",
+    "bytes": 313
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/三国/poetry.三国.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E4%B8%89%E5%9B%BD/poetry.%E4%B8%89%E5%9B%BD.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/三国/poetry.三国.0000.base.json",
+    "sha256": "bba28ad97ba0fbe97d08731b9cd373319df4afd7762fd2d10c0faa281294d8b0",
+    "bytes": 117360
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/五代十国/poetry.五代十国.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E4%BA%94%E4%BB%A3%E5%8D%81%E5%9B%BD/poetry.%E4%BA%94%E4%BB%A3%E5%8D%81%E5%9B%BD.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/五代十国/poetry.五代十国.0000.base.json",
+    "sha256": "8b649c6e287f4c8cdaef0697c66746f3f468c0bb954eb10377ab1deaba28b2b0",
+    "bytes": 405723
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/五代十国/poetry.五代十国.0001.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E4%BA%94%E4%BB%A3%E5%8D%81%E5%9B%BD/poetry.%E4%BA%94%E4%BB%A3%E5%8D%81%E5%9B%BD.0001.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/五代十国/poetry.五代十国.0001.base.json",
+    "sha256": "b9385102c5d7a773f296d8f333b8b5c2cfbf7a1590a9fbd81480ed08e93945b0",
+    "bytes": 336425
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/元/poetry.元.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%85%83/poetry.%E5%85%83.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/元/poetry.元.0000.base.json",
+    "sha256": "c5569bc6ff693583a5b7048f6f60d21456a5a886f23c27f89c479abaee5a7999",
+    "bytes": 429082
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/元/poetry.元.0001.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%85%83/poetry.%E5%85%83.0001.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/元/poetry.元.0001.base.json",
+    "sha256": "5be2cbeca7401aeced749ef0a1d38fedcc0c1edc1bc57871983be8376ddeb08a",
+    "bytes": 484235
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/元/poetry.元.0002.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%85%83/poetry.%E5%85%83.0002.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/元/poetry.元.0002.base.json",
+    "sha256": "ac1741a87167c7916db909214321beb65fb69bf0ede5f394dad4dd991639e196",
+    "bytes": 484901
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/元/poetry.元.0003.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%85%83/poetry.%E5%85%83.0003.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/元/poetry.元.0003.base.json",
+    "sha256": "ffbecb98b4005f0dfe472f69c3e5ab2bd251e093ad5f60bfd18b2baab0549582",
+    "bytes": 434624
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/元/poetry.元.0004.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%85%83/poetry.%E5%85%83.0004.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/元/poetry.元.0004.base.json",
+    "sha256": "9f9adbbaf665cb009d8436d808fa605b2146209af1b602a30c5cdb1488055f35",
+    "bytes": 494508
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/元/poetry.元.0005.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%85%83/poetry.%E5%85%83.0005.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/元/poetry.元.0005.base.json",
+    "sha256": "8d42bddd9f8d7a146a906658217274ee8908194ca4e6ecd1fd332c069cec5099",
+    "bytes": 442707
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/南北朝/poetry.南北朝.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%8D%97%E5%8C%97%E6%9C%9D/poetry.%E5%8D%97%E5%8C%97%E6%9C%9D.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/南北朝/poetry.南北朝.0000.base.json",
+    "sha256": "2ed8ac5a0f02bcfec6c6e41766816fee12d453c3b584fa7755b7bae01790848c",
+    "bytes": 310981
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0000.base.json",
+    "sha256": "e8a5354cf972c0b7b7d5c9007d55c29c08e064fe27a0cad21e102cc1e299e19e",
+    "bytes": 435781
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0001.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0001.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0001.base.json",
+    "sha256": "3dd0123a7b3f2d34abd4fa6801be216e7f7d2f89b631743cd572e864771ff27a",
+    "bytes": 580603
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0002.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0002.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0002.base.json",
+    "sha256": "aa6c19194d5ce483b941e4fe826db1f1e7df6029f720f04aab1879f3619e01b8",
+    "bytes": 425786
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0003.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0003.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0003.base.json",
+    "sha256": "290c37f8bff921fcaa01cd52c3887fd04804f938500069cfbdfcb4e31d9e64e7",
+    "bytes": 456779
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0004.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0004.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0004.base.json",
+    "sha256": "a6db98fe71827520ed7aa1adde5628538d938bcd708efb8228f4c3e49150279c",
+    "bytes": 448790
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0005.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0005.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0005.base.json",
+    "sha256": "bee3b42c8f67d5cac26b6c663eea4a4160c289d1d6d3f0d39c9a53ccf1272b75",
+    "bytes": 421850
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0006.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0006.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0006.base.json",
+    "sha256": "68ea55530f91fd6be958de92616001f9da9e7aef0669daf9b175c9a9b84226a1",
+    "bytes": 513210
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0007.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0007.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0007.base.json",
+    "sha256": "7a75404e9f7ff78ac3efc43e9766fd7efb499335b285eecf591603e18122bccc",
+    "bytes": 481562
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0008.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0008.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0008.base.json",
+    "sha256": "5022182e71db9ccdc23653b9e1642348482de6ca8b23db062a5aebbe3a953489",
+    "bytes": 511565
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0009.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0009.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0009.base.json",
+    "sha256": "4ac8b00e734b4dca4b95c1f4d3eb638988df93556e4cfd149ff3227dae230b74",
+    "bytes": 463143
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0010.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0010.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0010.base.json",
+    "sha256": "4a73be220968777fdb6a7b68a3f7f6fbe01f68be4dcf53e2442ea1d65c0a27cb",
+    "bytes": 426788
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0011.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0011.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0011.base.json",
+    "sha256": "fae56da033a105e0efe0265c5a5aeedd6a065a8f36dd99665392bec94cfd11b6",
+    "bytes": 477444
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0012.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0012.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0012.base.json",
+    "sha256": "90b73dbac038770b902177ea6ad1baf3ef68474e1bfea68c738f301c272f2245",
+    "bytes": 407088
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0013.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0013.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0013.base.json",
+    "sha256": "78d9b50e6fa7745701da1a97818c60d2f5844859356636b712a93b48eb3beb93",
+    "bytes": 459067
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0014.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0014.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0014.base.json",
+    "sha256": "a62a201f4ecc783978d2df3a0cb2307c846fe4b1baa7827853a1a6d837076602",
+    "bytes": 539040
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0015.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0015.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0015.base.json",
+    "sha256": "d90cf178122bed91be77e7d435d97d51dd2c5310c131597cd5456240dc8e4429",
+    "bytes": 442438
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0016.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0016.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0016.base.json",
+    "sha256": "c2cda284d555bfe1e2c22aa3adbf779c0b778db4ccd0d041078edbfcf9a8a85a",
+    "bytes": 382297
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0017.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0017.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0017.base.json",
+    "sha256": "eb8deb104d8586df30c23f1b724e2a7f1f00c337b04d7a4d73b8014d2492fe07",
+    "bytes": 637600
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0018.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0018.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0018.base.json",
+    "sha256": "206c4a37bbd9d27e7fe2179460465296575a19fdbaaac9977e53672a8d3cc930",
+    "bytes": 495513
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0019.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0019.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0019.base.json",
+    "sha256": "3b01b310261264fc02ea4ee1bd115eec934f1c07cc73b69dfd5efab44bde7956",
+    "bytes": 448376
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0020.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0020.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0020.base.json",
+    "sha256": "4428d5f81c747ee2b30c85b9f5712abf8378f6d4a550b4c11d7d346f1a3033d8",
+    "bytes": 456007
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0021.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0021.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0021.base.json",
+    "sha256": "3a0013ff0112611bbe62a868ac0a3800e062a2933aa8d79d92edab4b0c2875ea",
+    "bytes": 408326
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0022.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0022.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0022.base.json",
+    "sha256": "70f6f839bf83deb9a40bc61c8f51bf681b6b2d1f474df05fb1a3046ad9757c75",
+    "bytes": 478153
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0023.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0023.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0023.base.json",
+    "sha256": "b91d3e43fd4f9ec5433641e1779ed816cabbf141192289e8ca5efdeb13d3de0f",
+    "bytes": 419471
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0024.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0024.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0024.base.json",
+    "sha256": "454204d267b11724739a0c09047fe5a7a5d45bceec176e63c13e86fd93b430bb",
+    "bytes": 402206
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0025.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0025.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0025.base.json",
+    "sha256": "b04e5af80a7e82227bc16e439244307d36a5701603b43dbd3c987740c2caa840",
+    "bytes": 445524
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0026.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0026.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0026.base.json",
+    "sha256": "5b067090592c12df1a52bbf4ccc8d6b4513a541aa25bb4b2fa3fb214ca7905ab",
+    "bytes": 442354
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0027.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0027.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0027.base.json",
+    "sha256": "52c976b6f138ab5b8eb96e4f6e97aa159d48c39fbfd677a1daecb27340f67e9f",
+    "bytes": 425101
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0028.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0028.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0028.base.json",
+    "sha256": "66ad0bde0d70abef272aa6022b58b4c8932a97c0d2f5ba1222a40b1629c476ca",
+    "bytes": 467936
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0029.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0029.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0029.base.json",
+    "sha256": "fb15605e938ab41fa0cce655438f01f6ab8e1ef87afd5e26aa0bdd5d59555ddb",
+    "bytes": 401884
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0030.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0030.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0030.base.json",
+    "sha256": "4ea4898c8e5065327448fbe3b71076b4ed0783460e0beb30d0232772c915ecfb",
+    "bytes": 439867
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0031.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0031.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0031.base.json",
+    "sha256": "0fcf4462e733c12e32230ff1a381c091b81a4c572ec1ed2ef11bcff9c5b29c61",
+    "bytes": 464566
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0032.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0032.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0032.base.json",
+    "sha256": "b6709d68c34f22e3bb5bfe067098c311a3ae5a16a8b371112ff46fa9db9919fa",
+    "bytes": 457011
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0033.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0033.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0033.base.json",
+    "sha256": "85c15ce064bd48e6110cdd9c19f65908d9d42f1db5369f2c0d0e4f0e00f97788",
+    "bytes": 445429
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0034.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0034.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0034.base.json",
+    "sha256": "124e50cbbaf0756284be797e126e3ea32cf274a48290b0890b8707cca43486d1",
+    "bytes": 422922
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0035.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0035.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0035.base.json",
+    "sha256": "343bf56a72182a86c79d614eea8250833bd1e6e2238f6aa7bb103c7d46810daf",
+    "bytes": 422640
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0036.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0036.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0036.base.json",
+    "sha256": "a2f5279a8182718e49342c0b45d1c5380d0bccc6edf0f54c6afa61812a550611",
+    "bytes": 482863
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0037.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0037.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0037.base.json",
+    "sha256": "b9071d593705ce4c8050643edb7163e7ec818e5cbad39c6b89b04fd4fbef0c50",
+    "bytes": 444837
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/唐/poetry.唐.0038.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%94%90/poetry.%E5%94%90.0038.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/唐/poetry.唐.0038.base.json",
+    "sha256": "b5ebcf59a127d9415e5ba40a39bdfe9045656b13e94dfe1f8cc4abb858ae1b05",
+    "bytes": 105070
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/宋/poetry.宋.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%AE%8B/poetry.%E5%AE%8B.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/宋/poetry.宋.0000.base.json",
+    "sha256": "3481c3c7d7216d5da587f9951bf089aa893e198fdae5a75dcffc1bbb672c4b08",
+    "bytes": 440254
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/宋/poetry.宋.0001.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%AE%8B/poetry.%E5%AE%8B.0001.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/宋/poetry.宋.0001.base.json",
+    "sha256": "23270adc2f3025e7c3f65072ce8efa9978f6aee4314a1db3fc64a153508d7e45",
+    "bytes": 499146
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/宋/poetry.宋.0002.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%AE%8B/poetry.%E5%AE%8B.0002.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/宋/poetry.宋.0002.base.json",
+    "sha256": "87ebf23b3b06886183a06429a078c22ca7e273a4459877fb7657f6829400b164",
+    "bytes": 383241
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/宋/poetry.宋.0003.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%AE%8B/poetry.%E5%AE%8B.0003.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/宋/poetry.宋.0003.base.json",
+    "sha256": "e9d916f3fbf8b9912d163fa1ff93becaded48061b11e9ce39ab430c9947f6fb7",
+    "bytes": 498911
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/宋/poetry.宋.0004.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%AE%8B/poetry.%E5%AE%8B.0004.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/宋/poetry.宋.0004.base.json",
+    "sha256": "85864979c5142ba3e17f80ff97cc1d0c3a89788a20859eb8e210af7ff8f7d869",
+    "bytes": 500847
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/宋/poetry.宋.0005.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E5%AE%8B/poetry.%E5%AE%8B.0005.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/宋/poetry.宋.0005.base.json",
+    "sha256": "89059f6845c1b0f13ed97b562bd3d6ff6e2b0339954d722f1623f1f92b8516a5",
+    "bytes": 404160
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0000.base.json",
+    "sha256": "417ee9c2b4947d6b84f421b3113639942b4a1d52a91e89217239e4e822b28bf5",
+    "bytes": 400005
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0001.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0001.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0001.base.json",
+    "sha256": "152339eb7517145d8996dcd4c44f5c1ff3f5d729d696bf9579a2ea35453ab241",
+    "bytes": 401170
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0002.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0002.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0002.base.json",
+    "sha256": "75df119b4c5f0594961055a95bee25fb45e09ccf24904cc4540f7bfff0e5e424",
+    "bytes": 423974
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0003.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0003.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0003.base.json",
+    "sha256": "0c37d0eeaa4cc6ab07699b90e2e5129aca37a66411badc84910afd0ec75e7da4",
+    "bytes": 373688
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0004.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0004.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0004.base.json",
+    "sha256": "7bfdc9b3477005d9f91eca72666ffbf35cbdedcc81ccc272f5a91ecafd679150",
+    "bytes": 329579
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0005.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0005.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0005.base.json",
+    "sha256": "6f78c9ab2a786311bc7271a9f21350ceefb89fcac81a6c31094549e75c753f36",
+    "bytes": 527920
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0006.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0006.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0006.base.json",
+    "sha256": "b58448065b2b657bf2a2b26d012e62512ed5101f60e8cc99de7d266343883d68",
+    "bytes": 469850
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0007.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0007.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0007.base.json",
+    "sha256": "014e4ed8085c6facbff7ed3da12c59bcfa284514993cc3d7cdff30b72502d1f0",
+    "bytes": 455331
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0008.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0008.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0008.base.json",
+    "sha256": "a0d63c69e6220296717585223809e4c0536d031b71242f519350be4808921434",
+    "bytes": 575836
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0009.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0009.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0009.base.json",
+    "sha256": "5f4aa0d0552d30c5afafbc82089f478a568cbfc9d4a0cb4afa1f5e50a454403d",
+    "bytes": 458412
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0010.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0010.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0010.base.json",
+    "sha256": "5d25d9db2517b542f2c2a2a00cf27c80fa2616375c8aa91e5d5b055f2bb027e2",
+    "bytes": 489033
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0011.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0011.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0011.base.json",
+    "sha256": "8ef7d9e607ba8826f86811f0c33330f9540ad52d2babdbc8657a6d6e76820fc8",
+    "bytes": 434916
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0012.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0012.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0012.base.json",
+    "sha256": "6b4c0f89a6fc45d40eda331deeb97c2eae84a3d6b604ec04e9655dd6304f7076",
+    "bytes": 498001
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0013.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0013.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0013.base.json",
+    "sha256": "5b47bf5c3ca5d838cd319a8ae7986bd2293f7d980abbfe303dbb50d5ca8265de",
+    "bytes": 427260
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0014.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0014.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0014.base.json",
+    "sha256": "c45b86f6b368e80137973ef24fedc4fae6f83d574522052bf1202fa5b22d412d",
+    "bytes": 442992
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0015.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0015.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0015.base.json",
+    "sha256": "14fbc56776a7606d49177f09b8a3435cbf37983691015c6bea18c70c300cdfe9",
+    "bytes": 507015
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0016.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0016.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0016.base.json",
+    "sha256": "38a06f9ffb32ac8367faf2c738630f79d4368cc98a1a006094b651c73692ac35",
+    "bytes": 488234
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0017.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0017.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0017.base.json",
+    "sha256": "2068bdbacab5d15e5e42f3e8d58180ae3a04690eebc73482535d174e8f415f2a",
+    "bytes": 477903
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0018.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0018.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0018.base.json",
+    "sha256": "9ceb22e112e692ae8d9ecfd1f4c149c2b283e783728e34d5e11133c745cb4f04",
+    "bytes": 482165
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0019.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0019.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0019.base.json",
+    "sha256": "8de4ec3a6f5d2929eceb0cfce7b8525e01ada9b5bffd1eb8a1b626da38ed6ff5",
+    "bytes": 458088
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0020.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0020.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0020.base.json",
+    "sha256": "a0e44783a4ab96c1f85362e3195778ba02fc0d67819a2c77adb28af288ee44eb",
+    "bytes": 443847
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0021.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0021.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0021.base.json",
+    "sha256": "0f8c15b0aedc250dbbc7a6d3693e2476145885aeee036539d50aa05faaa184e9",
+    "bytes": 475653
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0022.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0022.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0022.base.json",
+    "sha256": "c832d4bd0d6f8ce2246b6245e696af2f22e709c83af5ad5c897da450a0a26e83",
+    "bytes": 456051
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0023.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0023.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0023.base.json",
+    "sha256": "d30c471df7776f749a1cd9991f0f75947a2cd06de6763cdd771d6c22b4d51c4a",
+    "bytes": 425723
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0024.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0024.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0024.base.json",
+    "sha256": "6b19b6a8864fdad78f914b4031afeea6a201461c9ec6329e75cd78f3012cf0bb",
+    "bytes": 457772
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0025.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0025.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0025.base.json",
+    "sha256": "e684001730848e84f4fcf72c37051a4e5f194a9738bc0b8ba539d3080041bb09",
+    "bytes": 543598
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0026.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0026.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0026.base.json",
+    "sha256": "1092c8afdd88e738d5af1c616e7e0500d0381236ed5140c15df39062065cd5bf",
+    "bytes": 501244
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0027.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0027.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0027.base.json",
+    "sha256": "9320b4b1beab39c87f0b31b641da7402727baa9843edbb61700f79c20fda8d0c",
+    "bytes": 505428
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0028.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0028.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0028.base.json",
+    "sha256": "52820655c75b21138bae2caa954fd46aa6f53976ec9da324ee32d9788bb4de1a",
+    "bytes": 445130
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0029.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0029.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0029.base.json",
+    "sha256": "6e807d5b7fb0c5ba17edb62dd3754850a075a38c7cfc10cd7596abd6c2ee1478",
+    "bytes": 465510
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0030.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0030.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0030.base.json",
+    "sha256": "33d20ff80b1ff3252834cfd2b7570ccc63315551bf8999b88761c46baec5b7ca",
+    "bytes": 476450
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0031.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0031.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0031.base.json",
+    "sha256": "186c313d022192be080c9635f6fd5ede443dd14de9e117fa18ba305fb171945b",
+    "bytes": 428289
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0032.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0032.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0032.base.json",
+    "sha256": "3b9f3be49ec0c154aab0b86fff0bd11c8399b4fde82c048150a7038bffb850e4",
+    "bytes": 478490
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0033.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0033.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0033.base.json",
+    "sha256": "663cf8781a3b741bf750fc2b55e6b02f00ee08700651becb913213b97c9a34b7",
+    "bytes": 393369
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0034.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0034.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0034.base.json",
+    "sha256": "18251ce7ea8fd829ccf53be573ed8573429cbd7e9a29a089d0b17252f5491b2e",
+    "bytes": 660490
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0035.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0035.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0035.base.json",
+    "sha256": "e8b9b007424ad7ef2992a9711ff127c4574f982873b7f7563d7d80dc8b8e00cf",
+    "bytes": 432702
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0036.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0036.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0036.base.json",
+    "sha256": "bee90a7a69be6b77de1a0a4dc6ce4cd8bd0918b61bdc0e9bca7be2f2947d115c",
+    "bytes": 455116
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0037.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0037.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0037.base.json",
+    "sha256": "bb5f6bf5fee63e8ed1974c332742bbc286ee249c547a58f3b81f2e2c61263389",
+    "bytes": 432338
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0038.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0038.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0038.base.json",
+    "sha256": "f0b69d04bdc42198e45cb94b418fbb504d980fb95ff3579d676f49e4d845471c",
+    "bytes": 454582
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0039.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0039.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0039.base.json",
+    "sha256": "aab727dc5f45b9034ac8fe816c82b22ada24b65f0e8bad2846614c6023c26f9e",
+    "bytes": 490806
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0040.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0040.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0040.base.json",
+    "sha256": "9f1c685f66063dbbd9e8ca360f17285cc764cec279e8e8b06205e833a0c184a9",
+    "bytes": 433083
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0041.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0041.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0041.base.json",
+    "sha256": "a2e95ca20801862d0fb2ffdce6530fed64f6c3430964037a7b55a4a766457c6d",
+    "bytes": 469070
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0042.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0042.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0042.base.json",
+    "sha256": "6b8ded20642b88f1f608d56486d8fd398440061be29f0cd2cb6be582ba4a4721",
+    "bytes": 471807
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0043.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0043.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0043.base.json",
+    "sha256": "290dc03d3b37ca4ad8dbe3f347e2a1057d86695e4c4071d40b0eb4359ac58b30",
+    "bytes": 463599
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0044.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0044.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0044.base.json",
+    "sha256": "f17bec3b24445a0d2f5b26ee00af7bab828eb7cdae6f81c87070209d194e2900",
+    "bytes": 446506
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0045.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0045.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0045.base.json",
+    "sha256": "61035d02ec3c034c9e9ef01f09fec1a9672b22d8880c242e2fb5caf6828de1a8",
+    "bytes": 478588
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0046.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0046.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0046.base.json",
+    "sha256": "0842c55e0055755631235b41ce62849512b2fc10363968915fc950e6363a4673",
+    "bytes": 493200
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0047.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0047.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0047.base.json",
+    "sha256": "5d1385321d250c5bf941a55096ab7f00c3c18386c4bdf7bd7c441793eedbd45e",
+    "bytes": 451100
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0048.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0048.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0048.base.json",
+    "sha256": "49551bbb7179753f345ea72647365c6872b9054791efcd1491c910b10657061c",
+    "bytes": 449614
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0049.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0049.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0049.base.json",
+    "sha256": "29b78ae0644dd0ab8e68723c0ca29004c5849683a91636ec9e8daf2f57e658ec",
+    "bytes": 450192
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0050.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0050.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0050.base.json",
+    "sha256": "8d87857f15a198426f289711546c5ff2ae4e48d9601c8064cf80f5803b2c5e7d",
+    "bytes": 426518
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0051.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0051.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0051.base.json",
+    "sha256": "52ef54158ed083e7b88c35ecb42f143036d07dc7c40aeb0a240ecc54a3c7b0e3",
+    "bytes": 467772
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0052.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0052.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0052.base.json",
+    "sha256": "e12f61fe097bc70a5cd32972c81501145b2369997d03b6db8261721c3d6ea51e",
+    "bytes": 375152
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0053.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0053.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0053.base.json",
+    "sha256": "b75f3ecaa206796393598710a6627ea739367b58b9ac782833541a7df2d6e6c7",
+    "bytes": 410535
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0054.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0054.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0054.base.json",
+    "sha256": "da74f66f4a8a20ebc8766846b26d859297f9304c335e898d28e30842629a2446",
+    "bytes": 449671
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0055.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0055.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0055.base.json",
+    "sha256": "fcd0f4c514172784f0c1ad333912716dd8a09bb3a2194c3300408b229d498852",
+    "bytes": 476751
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0056.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0056.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0056.base.json",
+    "sha256": "896db491f964fd09f400bbe9e7d843e54efd0a9a77a581b170be44316ac33f3e",
+    "bytes": 452088
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0057.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0057.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0057.base.json",
+    "sha256": "3f6db135476c23617504792871e90b24d5a2e0066190db80ed86fe6bc5233bbe",
+    "bytes": 425395
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0058.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0058.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0058.base.json",
+    "sha256": "2de0a971af3267386014c0212c48b1029f0256f7a32f5ad042a4401ef1b7946b",
+    "bytes": 378329
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0059.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0059.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0059.base.json",
+    "sha256": "6a2bd53ec0a7447d9f14c3d965f40126e723717dd5722968123cd256af55d42f",
+    "bytes": 616266
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0060.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0060.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0060.base.json",
+    "sha256": "a4455be66bf6d60f5fc49206ab9184d2e8e84fbabe435e4d46e502bbf98902c3",
+    "bytes": 437921
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0061.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0061.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0061.base.json",
+    "sha256": "217b98953645c3cd6c4c43c2ff451bbcfdd83ce280d19ef70e578b9fcb4b63ae",
+    "bytes": 516208
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0062.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0062.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0062.base.json",
+    "sha256": "2edb8250c3ee23a4eff07572f9f6ab8f169b9e24c7cd27cd18e4865400c52daf",
+    "bytes": 433490
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0063.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0063.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0063.base.json",
+    "sha256": "48f8998dbadaa2f12cbc187c5a3eff4ec01363410c8032088435927201b71c63",
+    "bytes": 440770
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0064.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0064.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0064.base.json",
+    "sha256": "a8966d5e81766714fa5af98c56763d5b8542d85141a2a422e6394abf9add094e",
+    "bytes": 507036
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0065.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0065.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0065.base.json",
+    "sha256": "cbadaaa06cdb639f34f70ec393c0649ea14ed64af306c63cc90586910c0d5dfb",
+    "bytes": 460970
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0066.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0066.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0066.base.json",
+    "sha256": "49371a5660b9ce2a5ee890be0e1528d22707842ccd333728e61838ec54c0511b",
+    "bytes": 479797
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0067.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0067.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0067.base.json",
+    "sha256": "cd200a1fc51f327443ab59f9063baa082c05e1198aa7cae9b5bb4f0687c6c24f",
+    "bytes": 489764
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0068.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0068.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0068.base.json",
+    "sha256": "016ca5270b7756b7989ab202db7d8e6f3763f215d5a873b3fe910cbf577f5674",
+    "bytes": 476746
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0069.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0069.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0069.base.json",
+    "sha256": "bdde7812457a83d2a2edcdcb43e52e74d6c3106c87c1a0d5a8b8d3d54f063d50",
+    "bytes": 499851
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0070.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0070.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0070.base.json",
+    "sha256": "224f92abf6ac077672aca2ce70e43185e28d28add3323c6d461084a12c290a89",
+    "bytes": 488803
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0071.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0071.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0071.base.json",
+    "sha256": "d4aa32d2f3403e037754b337b2665b03e3c849e9f89b8d690935139329dae8e5",
+    "bytes": 447310
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0072.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0072.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0072.base.json",
+    "sha256": "279e97ad34d2eac3287c00ac39de9603ff92017bd9a67f3edbbaa1b62e1c695f",
+    "bytes": 432313
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0073.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0073.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0073.base.json",
+    "sha256": "4328b58e54516a12daf691787e5683d1973d180b2c208edb2e7fc45e268c4115",
+    "bytes": 489644
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0074.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0074.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0074.base.json",
+    "sha256": "e7066282528be04b06077c51ab57f0b78a28196a6e9fbeb520042aee7479a3dd",
+    "bytes": 465201
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0075.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0075.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0075.base.json",
+    "sha256": "4e65100297fd6a0dbf4f6c5a92ceb03e8e9e0375def03c075d0eee12ba55ae7a",
+    "bytes": 449046
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0076.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0076.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0076.base.json",
+    "sha256": "0d574f79c55a6118b0734cc56020fd1b25a18fa581a82a187c22ea8fc26a00e5",
+    "bytes": 421437
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0077.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0077.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0077.base.json",
+    "sha256": "8e139a58166c4a5c3f74d5bfe98a11c734dd0956f188eca211b1aad81ee92cad",
+    "bytes": 430803
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0078.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0078.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0078.base.json",
+    "sha256": "7ab027c6c76e3a6e718b8e95ce173a07cb90c84a20b49d4bffbad889a2cbb509",
+    "bytes": 476251
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0079.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0079.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0079.base.json",
+    "sha256": "d7a472ecb148c6fcb620ba67d39090f80ffa7097e406201446643abedc120a78",
+    "bytes": 506144
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0080.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0080.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0080.base.json",
+    "sha256": "9d50c153feea833601c517bdd081433074018cfb6a984023cf009071115e3ca4",
+    "bytes": 445552
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0081.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0081.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0081.base.json",
+    "sha256": "ef7ded4c7bb59e803a588df394a3227d725d221ab0564a98c96952666d30e7a0",
+    "bytes": 439575
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0082.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0082.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0082.base.json",
+    "sha256": "e6cf232f48bdc5a65543aafa09d26e81b58de34921535976e1aa970f7953f9fa",
+    "bytes": 482382
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0083.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0083.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0083.base.json",
+    "sha256": "6de2ae90dcd1b90a86697e3f73d739cf379bedb59cfac0cacde202c4e04492b2",
+    "bytes": 454168
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0084.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0084.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0084.base.json",
+    "sha256": "9f7326a404679b7e28be2a79c3b71a679e0a08d0c2fa31679d34730e9e6eedb8",
+    "bytes": 431952
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0085.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0085.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0085.base.json",
+    "sha256": "0ce7b777fee5bb0a63f829b84cca8c15aa158217b84bc9300f75c414cab86586",
+    "bytes": 439371
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0086.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0086.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0086.base.json",
+    "sha256": "520728239ef236364a2fbb4537cfec93ba6f49a20e480396c1ec476a15f4c07e",
+    "bytes": 515731
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0087.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0087.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0087.base.json",
+    "sha256": "1dbe3f638b9e1b84fd5fd75f669e4e624c1e413df399361938ed908255824e66",
+    "bytes": 443894
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0088.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0088.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0088.base.json",
+    "sha256": "e88b1830f73a07043a58121e73f4a0f9cb20668fd9de76f7b15098e0ea6b3a7c",
+    "bytes": 533809
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0089.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0089.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0089.base.json",
+    "sha256": "cafb67f9e4edb4b172a77b280aec489f5631eabe02a1455022f13b017f6a0779",
+    "bytes": 459386
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0090.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0090.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0090.base.json",
+    "sha256": "c4fa6d7487f83578b683bd25b4b01a9151d0e28743656ff25f78bc0cceb218b7",
+    "bytes": 438713
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0091.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0091.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0091.base.json",
+    "sha256": "926303132409d44f1fe92595dab3f6ea172e71cdbd3e0e4b9f3f4bdfde59f48f",
+    "bytes": 420052
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0092.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0092.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0092.base.json",
+    "sha256": "dc9449a107ed75ebeb2d6dd0c55f65d0880b51a4cc99cf7e9c9c37b73631ad9b",
+    "bytes": 467639
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0093.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0093.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0093.base.json",
+    "sha256": "d082b471c0125ee5efcc929fa46d0844d865dde824b613c02b4151ed7a77c88d",
+    "bytes": 405143
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0094.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0094.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0094.base.json",
+    "sha256": "728e38af5c3974d7b5ead3e157cb96d41d75d8ad9dd296d49d083c5f1a109b63",
+    "bytes": 350926
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0095.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0095.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0095.base.json",
+    "sha256": "b1fdde98326c749ca0e2c8fc9da8c0ec65017f5139cd9a73f60f58a44e1f0aaf",
+    "bytes": 536411
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0096.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0096.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0096.base.json",
+    "sha256": "4e8820f7dd5dd5cabbdde98ce59e1017f0fcd6d1f4e8caeb07196dd6cc14dc3b",
+    "bytes": 676311
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0097.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0097.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0097.base.json",
+    "sha256": "6434a40e5da81fd2524e1d78acc1816efa76e7401324431d07ba76533e44bac3",
+    "bytes": 446924
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0098.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0098.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0098.base.json",
+    "sha256": "442cf3df90a831224f24b9e3e2184053e2ec8f5ffb15c3143870d79d7aa58bea",
+    "bytes": 502994
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0099.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0099.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0099.base.json",
+    "sha256": "42239ed9374fd290f765a6feae57e3a13553ce0ef524b197ffa1927f28dedf9a",
+    "bytes": 449064
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0100.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0100.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0100.base.json",
+    "sha256": "9f0f939d9b6e69ccc370e1e855d3e10f82c1225466f0e79509315aa657c52e37",
+    "bytes": 426190
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0101.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0101.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0101.base.json",
+    "sha256": "85fea1fdb5ed07c563c4067f5902ab5404b5bfa474c319d5885d508ef2817918",
+    "bytes": 498910
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0102.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0102.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0102.base.json",
+    "sha256": "e87ba5aac02372c9eb7687587b2bf799f650389ea12302bcbe65021291b3bafd",
+    "bytes": 434654
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0103.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0103.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0103.base.json",
+    "sha256": "395f2b73ada663184b2206930272b25781f7f9b681713a617964c9e276f6fc9f",
+    "bytes": 462297
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0104.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0104.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0104.base.json",
+    "sha256": "8c246c9b9bcbb7d3019d0b27d0e764c30b8aebe7b6b4dbf4ee3c525bda0bb4df",
+    "bytes": 448301
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0105.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0105.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0105.base.json",
+    "sha256": "adf0734e027b418b9647af69340515e6d46c229dde3f9b59ef40c75208f227d9",
+    "bytes": 504664
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0106.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0106.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0106.base.json",
+    "sha256": "4b86dade2d75e9b8894e5d5293b00f596d3402d9fe1bdd93682dda203620d446",
+    "bytes": 519973
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0107.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0107.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0107.base.json",
+    "sha256": "74e7ba977a95d282f8b30beebadd8529660b6e6ae249ffd6d256a594b2249a59",
+    "bytes": 550073
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0108.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0108.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0108.base.json",
+    "sha256": "91f4314e500d841265397cbab4142d8ccbaabcf2bb394c6e1f3b4e7bc58484c5",
+    "bytes": 463023
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0109.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0109.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0109.base.json",
+    "sha256": "0a07b43fb7e9f9fc5de4b44859cc8fd62b42c373039f03d6c9600fc9974ed270",
+    "bytes": 448731
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0110.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0110.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0110.base.json",
+    "sha256": "4930ed6b386947487a1c25bf9caec245412c9527d7cf33ec0b303ca885604f17",
+    "bytes": 484860
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0111.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0111.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0111.base.json",
+    "sha256": "fdb73f9e66e057369be416916e31ca6343c960767443202f6274bf6dcecffb4b",
+    "bytes": 456163
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0112.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0112.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0112.base.json",
+    "sha256": "fb4b9a434dd9d070d50a2ffda8198dad00ea2e1ae84eff3a3b514da2b73e0a25",
+    "bytes": 451345
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0113.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0113.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0113.base.json",
+    "sha256": "fe76fd8d6f71b40c199fcf1bc3f7bd8d376cdd6f3a5e44d815b725ebc0d0b2cd",
+    "bytes": 465852
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0114.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0114.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0114.base.json",
+    "sha256": "a023b5643a14c4e94badd69018afbbd6b07b833c8be15abdaddce7b4bf9fad4c",
+    "bytes": 433172
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0115.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0115.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0115.base.json",
+    "sha256": "757534e2e7437ffcbccb15880a44ffbae8dbe68d8160c06cea4b96bc82b2d3d9",
+    "bytes": 500180
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0116.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0116.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0116.base.json",
+    "sha256": "4cc6824c11c3b896e0cad7729968a2685d30143bd0370f8c17476a659d469cf9",
+    "bytes": 440319
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0117.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0117.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0117.base.json",
+    "sha256": "11efe90523df327696bd2298bc0818ef34d3dda7f85a7a2315602d159d4656de",
+    "bytes": 500313
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0118.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0118.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0118.base.json",
+    "sha256": "1e4032db81e06054cf000a38e5760110370b5eb42380e8ecbc7622d4a1f8071d",
+    "bytes": 438282
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0119.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0119.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0119.base.json",
+    "sha256": "27f04b26810539b7296b4d2394db50f7465480b4c9e61d98417b951c0022064c",
+    "bytes": 443723
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0120.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0120.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0120.base.json",
+    "sha256": "44cb7797d372cf61e834d7a67bb874f36b229531dd694cf33f1ec4a226a95c9e",
+    "bytes": 437422
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0121.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0121.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0121.base.json",
+    "sha256": "6e3044b92d2afe83d1badf897a0312e2a9072ce678f4af35c1558ec084126a1d",
+    "bytes": 453595
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0122.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0122.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0122.base.json",
+    "sha256": "b0cb998a5f6d0d5e1f7f15b6dd481085a4b6943d315962ea662feeb47ab691f9",
+    "bytes": 466192
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0123.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0123.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0123.base.json",
+    "sha256": "12f4dd75b20dd42429c087ce544124f863b4254b9c1f8a65f9d16d7f8cb56014",
+    "bytes": 501792
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0124.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0124.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0124.base.json",
+    "sha256": "fcf45b8089eb563508a21c30402aefb87e025c3f7c6d1bac2d9b00ab6df49453",
+    "bytes": 451625
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0125.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0125.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0125.base.json",
+    "sha256": "60d731e1f05da0e173d408d7ad9f08b67c1c93437e12544a0fb85c32735ec480",
+    "bytes": 440637
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0126.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0126.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0126.base.json",
+    "sha256": "0ddbcdc77a5b6eb78502390182c103e87e12cbc49dacbd12d159288485a5d1fe",
+    "bytes": 442749
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0127.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0127.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0127.base.json",
+    "sha256": "c0da7100cca721bb86fdbffa583bcf4a1db07b5ebd69f6245b9edb974c58319e",
+    "bytes": 386165
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0128.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0128.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0128.base.json",
+    "sha256": "d6e9d8fd5d7fdc64f069e3e3fbd5b0ac602ff722c91de5f9ce6c129ef5718d8b",
+    "bytes": 480915
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0129.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0129.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0129.base.json",
+    "sha256": "5dce45ac266381e046d2880e9cd6d9c4f4e6e2152f6e85c2f54dcd3fdc8ca18e",
+    "bytes": 450861
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0130.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0130.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0130.base.json",
+    "sha256": "7347c91ccaadb212c01de69d7d44116264c57c1851149ff2c949631e8a699712",
+    "bytes": 468940
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0131.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0131.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0131.base.json",
+    "sha256": "b5e7e56b5637693ef47cc4f6d264c18c1b58beac52a1ebf36d28e7fcaf2ca0f8",
+    "bytes": 424128
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0132.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0132.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0132.base.json",
+    "sha256": "7178baf7df13104f94be51ac96d55dd009abd5a89c4f5e28ecff21f36f0ac4db",
+    "bytes": 406542
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0133.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0133.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0133.base.json",
+    "sha256": "cd85efef929b0befc623952f434ed858a4602696be0239178f75916f06170c9d",
+    "bytes": 526808
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0134.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0134.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0134.base.json",
+    "sha256": "b95ae580ac68e442a246430e6b7b815e8117de232ae99b637d5bed71a31dd639",
+    "bytes": 425761
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0135.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0135.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0135.base.json",
+    "sha256": "83639df9e840e07a1e7d62ebd4cfa8e834d1d6c358dac7c64e4923d64e95b574",
+    "bytes": 465374
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0136.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0136.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0136.base.json",
+    "sha256": "b6ccf90bd7636f1c379559c7dbbe0eb1a3239f283107822364c98eb53af6cda4",
+    "bytes": 385239
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0137.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0137.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0137.base.json",
+    "sha256": "5472dec0922e01ddde8e38eddac44dc8f1b21b8b7820685edaa2c37bb03ce85f",
+    "bytes": 567252
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0138.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0138.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0138.base.json",
+    "sha256": "c6922136546c947d90a0a2642e11d7326c184dc241c646603545031757301e39",
+    "bytes": 485053
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0139.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0139.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0139.base.json",
+    "sha256": "94d395302d27a436dd68a30fc8ac1b9e0bd974ebc007541239af6505614e31dd",
+    "bytes": 505229
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0140.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0140.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0140.base.json",
+    "sha256": "1bbc11af8c3e7950b985551c50f469c686e2e2d8f37e180c078c1008e431121a",
+    "bytes": 451631
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0141.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0141.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0141.base.json",
+    "sha256": "2318bfda9ddcca3798f25013c812382cb1a1faa2fcec53c0a55d8b741b182817",
+    "bytes": 453328
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0142.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0142.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0142.base.json",
+    "sha256": "22e6233c0a0376903f5d42e65cac5435f74941dd001f55a3ab3b71afaca2d511",
+    "bytes": 475713
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0143.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0143.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0143.base.json",
+    "sha256": "3482398a245dbf4050536b77784343cfec149e5c10523d3ef9805f9f4ee879a4",
+    "bytes": 524216
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0144.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0144.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0144.base.json",
+    "sha256": "5a3e8bc9a37c9035b451f65f86d661b2aeeb545ef5d738ac7b657e21aa5d4660",
+    "bytes": 468451
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0145.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0145.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0145.base.json",
+    "sha256": "98efc9245385b529fed18958c357fd18fcad8cb6a69c9791b0fd560f2b745870",
+    "bytes": 467013
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0146.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0146.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0146.base.json",
+    "sha256": "78be7503185b81b7715ec3ef7ab30cb0db285f30166b109b9d0ba5a93ee4d060",
+    "bytes": 430784
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0147.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0147.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0147.base.json",
+    "sha256": "8c0a651157d74f22c0b009521cbdec17757e81fd5724b7f9d57742a25ad851f0",
+    "bytes": 493824
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0148.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0148.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0148.base.json",
+    "sha256": "67bbd09eb07427433540fa2d03b1a2d4b3582607a5b037a363f7caafa96fcfb3",
+    "bytes": 502279
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0149.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0149.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0149.base.json",
+    "sha256": "40bf0f8c791fbc89f4b1283315674c35837229f1802b01a22a8a3c097dad1cbc",
+    "bytes": 435849
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0150.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0150.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0150.base.json",
+    "sha256": "ff1f760f79463c049794adace820b1e07a643840ac689ec07058a5c2bdb3d51b",
+    "bytes": 449811
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0151.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0151.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0151.base.json",
+    "sha256": "0456761d1cc24cb6e9f128d70c72098e15a60c9bcd56b368d0e5d81355ab6b19",
+    "bytes": 413817
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0152.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0152.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0152.base.json",
+    "sha256": "6d86d5431598b662e5631fbf544a22b32f387c4a583bcc5127ff2aa1a8c6f857",
+    "bytes": 377782
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0153.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0153.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0153.base.json",
+    "sha256": "b154cc1d7c74b11b9745d84217bd8708a86c2dbd008d508df0dccdf65d1a584b",
+    "bytes": 463785
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0154.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0154.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0154.base.json",
+    "sha256": "0976e1532889af0bd47ee18db328ed8708ed2e7b270cd04ae3ecdf22724bbb5e",
+    "bytes": 482337
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0155.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0155.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0155.base.json",
+    "sha256": "fcb2c235526badfd8e76068b024331b7195c76305de4bbf48c3240cd036d6f20",
+    "bytes": 437949
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0156.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0156.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0156.base.json",
+    "sha256": "18e7197d741600eff7c6ba0d3b16ae843cfc0ee214bb8638b330c9eea2eed56c",
+    "bytes": 438573
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0157.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0157.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0157.base.json",
+    "sha256": "19a31e8020358a14dfb7233dbb2252d40df0535ac605248ed19bd6438acef229",
+    "bytes": 474562
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0158.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0158.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0158.base.json",
+    "sha256": "e900442c936152c1a9af12ff21677976d3fd8de0a213d3d58beeb306cc667508",
+    "bytes": 440284
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0159.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0159.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0159.base.json",
+    "sha256": "fb6381a584ba5c882cb26bbd69b3acc20dc730c6c6ba5733d9f1a0914a5ed897",
+    "bytes": 450509
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0160.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0160.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0160.base.json",
+    "sha256": "de884f5d84a0ad490aac1cab54c14b6048980e3fb45d6cfbc8de7c21e2f7777a",
+    "bytes": 492646
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/明/poetry.明.0161.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%98%8E/poetry.%E6%98%8E.0161.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/明/poetry.明.0161.base.json",
+    "sha256": "7470732c57b5bfb036436ee62569e4c124c121fa2afd2fa89877db552277cf91",
+    "bytes": 360415
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/晋/poetry.晋.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%99%8B/poetry.%E6%99%8B.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/晋/poetry.晋.0000.base.json",
+    "sha256": "8aa4e7b478c0754d485cfe425dc79e788575481ee8f6a68ecb2e3a58483634f1",
+    "bytes": 159816
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/汉/poetry.汉.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B1%89/poetry.%E6%B1%89.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/汉/poetry.汉.0000.base.json",
+    "sha256": "0edfa030738a17bc184cf246e7d1fa8af9dfb0e0521b1a49e89ed6eddd610063",
+    "bytes": 244282
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0000.base.json",
+    "sha256": "4744f272521f136a9cc33f9d2b056b64d5a727fd2ca2a322fa931e3e0143f66f",
+    "bytes": 476940
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0001.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0001.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0001.base.json",
+    "sha256": "34fdff8fc47f5fe5874f21d752f72cac5b9d55f57d40d77ac952c9b9f2f3333d",
+    "bytes": 555368
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0002.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0002.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0002.base.json",
+    "sha256": "7b45f97e9de9c97585fc47d183cec96130c502c2a9081890800f58e5ff46ab9c",
+    "bytes": 513192
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0003.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0003.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0003.base.json",
+    "sha256": "742eb6f18fd0a8cda867bc72873de8a1621971a64ef514f922e2ece3d2848259",
+    "bytes": 489204
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0004.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0004.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0004.base.json",
+    "sha256": "52ee70b8dc69bb4a6f349b8266c1ee6e328839d43305cb3de93bd7d8af33b123",
+    "bytes": 518032
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0005.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0005.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0005.base.json",
+    "sha256": "d2cc0e4502f6486681c8160043018339d8f97532cd40f012d01e634584ca0d6f",
+    "bytes": 497018
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0006.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0006.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0006.base.json",
+    "sha256": "8bfb9449cc25cfc7f598f4331f8ef2bf4fbdb335a99ad4efc655bd9c7e6b1405",
+    "bytes": 517913
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0007.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0007.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0007.base.json",
+    "sha256": "748cf14792bc4f14c788133a106026cd971a0f606e055f326037cf691def7b90",
+    "bytes": 532332
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0008.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0008.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0008.base.json",
+    "sha256": "29cf81cbad130f89ccd79c1ba9d0b39fc29bb9216b8039a6fbf699c5eda1aa41",
+    "bytes": 502156
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0009.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0009.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0009.base.json",
+    "sha256": "95a547502f2bccdb54dad2ee516c8aff9004ed889220ab71e51caca120e2569d",
+    "bytes": 482175
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0010.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0010.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0010.base.json",
+    "sha256": "e630aaf1bb6f2f3224010d23ff82fa4353c49a8e29a82934dcd2011949d3e13f",
+    "bytes": 536335
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0011.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0011.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0011.base.json",
+    "sha256": "698f95de70e6cae8b975166312ecae1f3628cff42f1dba86fd6319dfce3751e6",
+    "bytes": 541542
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0012.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0012.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0012.base.json",
+    "sha256": "271ebe602ad1abf61383083ac9d0a4fb65c6780c12476bd783fac78b33606587",
+    "bytes": 472177
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0013.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0013.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0013.base.json",
+    "sha256": "ae0c1b6988cf2e473398cc9724c31bc3ac99336e2cf0dd92c360793f374cee12",
+    "bytes": 530265
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0014.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0014.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0014.base.json",
+    "sha256": "3cc464edef32e200f46ff8f7293373b5b73838fe4800d54d2614b18efd279e65",
+    "bytes": 516834
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0015.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0015.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0015.base.json",
+    "sha256": "3a6dc1bc351605c4b4d40eec2fd91cface2b8c0e987aa2083996c638f763be1b",
+    "bytes": 393935
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0016.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0016.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0016.base.json",
+    "sha256": "13c14b9320117b27b743fbf8498ddfbd2f8b1bd30349ddfabb423cc24af09c7c",
+    "bytes": 593752
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0017.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0017.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0017.base.json",
+    "sha256": "c9ee5b623d9d08d3e5f1ecc556987c26de1e61c7022944df1378a66c230d8a5c",
+    "bytes": 447980
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0018.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0018.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0018.base.json",
+    "sha256": "1c2fd071452161e012198232d77c51db8c0805e6f97f3d02388adc3538029e18",
+    "bytes": 433497
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0019.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0019.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0019.base.json",
+    "sha256": "d5ec58ff7aabad060cfc14857a2b8f0a444c8a7801cdcf545a8b796f95e91e0a",
+    "bytes": 537883
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0020.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0020.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0020.base.json",
+    "sha256": "ee851535894c1a09a029b93e0746b55f34fefed5737e3ab12ff699d722d33204",
+    "bytes": 505368
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0021.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0021.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0021.base.json",
+    "sha256": "c8ed6580cde2ca2620cef26fe6b26755c5da1b83827a2261e45f2995138b2d68",
+    "bytes": 506383
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0022.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0022.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0022.base.json",
+    "sha256": "bfe031458ef435b54d66104057cfae27dc57a76e65a003cf153a8c2264d130f2",
+    "bytes": 507586
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0023.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0023.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0023.base.json",
+    "sha256": "154b2ecc11c01791a971b197d38d9b972de17c78eb0ab3bd0915d0ae0c0c2de9",
+    "bytes": 515694
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0024.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0024.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0024.base.json",
+    "sha256": "1fd247ced4d57ac4b1478a970880d6b4ec337c8e1f716e0c6c088f4320eaef47",
+    "bytes": 539892
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0025.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0025.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0025.base.json",
+    "sha256": "6f2083ea6b3489b7e925eb3d6301713664c085d81f2bd57782a1ef99f6f510be",
+    "bytes": 480707
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0026.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0026.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0026.base.json",
+    "sha256": "486149a62c7d6d3bcddc77dc65179c6b6acfcd8697e5345e4ce615c978c0ffa3",
+    "bytes": 509268
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0027.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0027.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0027.base.json",
+    "sha256": "8ae538df9e9970cfbfb1f82d08f8fd23e8dad6a032cc4dae3517d341d3b0a932",
+    "bytes": 462404
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0028.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0028.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0028.base.json",
+    "sha256": "b4088a8dd320cce25989bb01ac78c265d3a102e8e3c40f3d3bb424e81c7ed3cf",
+    "bytes": 509210
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0029.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0029.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0029.base.json",
+    "sha256": "8c83edd809aeb96ae982bb7b706ef76a4803a595e7bd9e2eeff5f4f4d8f446db",
+    "bytes": 503317
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0030.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0030.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0030.base.json",
+    "sha256": "960281102107340f71fd37afd0e02e804d32a23a7e6d0f99f09395d4a062c745",
+    "bytes": 514181
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0031.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0031.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0031.base.json",
+    "sha256": "869b17832fbb0e6b80f2096aebb5053da262abdca59741b76e521c3a35477d74",
+    "bytes": 507668
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0032.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0032.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0032.base.json",
+    "sha256": "abfaa68f153acc4fb81caff463849c69d45554b1a4790c5065987fe5383ed668",
+    "bytes": 517999
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0033.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0033.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0033.base.json",
+    "sha256": "23a044d2d9bcadf39c9effc7cb29fd4947d1f5ab88c80ba27771d34c51beef31",
+    "bytes": 509505
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0034.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0034.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0034.base.json",
+    "sha256": "89f5bd56d0cde4010c20a7811166ca32d421ab7a669a1827330753476c372794",
+    "bytes": 444520
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0035.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0035.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0035.base.json",
+    "sha256": "ec5dbcaa921ef5f2512baf03cc3cb91ff839f3feab6c57fc35c6776e9f646ba7",
+    "bytes": 520023
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0036.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0036.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0036.base.json",
+    "sha256": "07bba846687541162f2618d3b9e2b7d9e60938058829e0079877524fe4b56734",
+    "bytes": 533630
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0037.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0037.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0037.base.json",
+    "sha256": "3eed6a1924e53dca48b59561713c5e1aca88e3d4f7ef077cd4090f6b358cf52b",
+    "bytes": 483686
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0038.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0038.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0038.base.json",
+    "sha256": "683fd26d4a9022e2999c043a921dc2bf6eeeb08deb0394eafa78f4c59a1e21eb",
+    "bytes": 518810
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0039.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0039.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0039.base.json",
+    "sha256": "2d8e1b46f07fa56a9987ed55b74127ee962345bd6e10ebc3c75e5de9715fd0a8",
+    "bytes": 513470
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0040.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0040.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0040.base.json",
+    "sha256": "cc0675e20521c56dc9195f14db44a24fb2592f8efbed46c51c4b6f8b6b5932b4",
+    "bytes": 480510
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0041.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0041.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0041.base.json",
+    "sha256": "bb2c779c65b5dbd3b05298b999d49e2a6c06e4c3636b9e3c3f566ec6c494aa3e",
+    "bytes": 519612
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0042.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0042.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0042.base.json",
+    "sha256": "2e1b590cb3bdb5348a1d956f8d4940afdc52f0015c861977bd4340bf300bb4ed",
+    "bytes": 505458
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0043.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0043.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0043.base.json",
+    "sha256": "c2922afcc49ebe467bfdef6112e76545e31e057563b93e8fda80d2679c1b6a34",
+    "bytes": 457961
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0044.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0044.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0044.base.json",
+    "sha256": "c48fb06224a4481c564b7be6173ea704ccf3ab584dd2ba6876a328e56f1606c7",
+    "bytes": 493411
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0045.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0045.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0045.base.json",
+    "sha256": "be5cd42c4dc414e75e78a06f44fb179e0f100bbf236be488399309a31be275e5",
+    "bytes": 514477
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0046.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0046.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0046.base.json",
+    "sha256": "bf989bcc1b0aa23d0b47cf40456a0bc2872de26cc10624902a9d72302ff2a844",
+    "bytes": 605315
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0047.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0047.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0047.base.json",
+    "sha256": "7bb6200615cc942bf42f6ccd862562090055eac709d59a7957e9d946b6758f8c",
+    "bytes": 495326
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0048.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0048.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0048.base.json",
+    "sha256": "36109d7b8ad2e4c24af2a80702f3f3f23c8467c6d0777bcccde44d77a72d84a8",
+    "bytes": 459747
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0049.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0049.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0049.base.json",
+    "sha256": "1fd5cba4f0401dc9431ac82ad3cca097007f2df76db0d348c42b091be69f926d",
+    "bytes": 506485
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0050.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0050.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0050.base.json",
+    "sha256": "fbaf3d11521f18743cf94c01ed81ae289ecc4cb8c39c0d48d117f4fe3d381e35",
+    "bytes": 532535
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0051.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0051.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0051.base.json",
+    "sha256": "81b73f13e2876952534915ab4f8b833d1dd2ed13b04487ec522c0e9396c46e18",
+    "bytes": 449220
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0052.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0052.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0052.base.json",
+    "sha256": "dc56bf7b9160c6ee84d3741c4fb778fe0b99cc406f42096f6560f08da3626bdb",
+    "bytes": 477383
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0053.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0053.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0053.base.json",
+    "sha256": "2504fd8c41aaad6896e0aaa2b54b78e182f649cd8ab6ceb877f83d6c890ab4b2",
+    "bytes": 460330
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0054.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0054.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0054.base.json",
+    "sha256": "bd3bb693484a9954e2ab084fd51c9a1f57da47d6d61497a1c960dee734984c80",
+    "bytes": 473268
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0055.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0055.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0055.base.json",
+    "sha256": "9a8c327f865b55d670fd3717a2879e4f7443131881b2dceb27297658d54432e0",
+    "bytes": 505192
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0056.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0056.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0056.base.json",
+    "sha256": "bae82d8f501e4f89e1c0cf4ea05838379c452c50cc1d290877946bd9251d42b3",
+    "bytes": 508190
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0057.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0057.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0057.base.json",
+    "sha256": "83baf4a73fd249d2817a551bace54400ee4ebb00d77f26459262d665eddd81b1",
+    "bytes": 514123
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0058.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0058.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0058.base.json",
+    "sha256": "fa99d7b52534c660b174d60d2c319735835272a30efe95e550a1bd8da8f7a6a2",
+    "bytes": 518688
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/清/poetry.清.0059.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E6%B8%85/poetry.%E6%B8%85.0059.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/清/poetry.清.0059.base.json",
+    "sha256": "74083b5aa3db30b30d3b9d12f1e4ef52c1c7e45cc2cd0d99c3c45b63002bbc12",
+    "bytes": 263318
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/秦/poetry.秦.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E7%A7%A6/poetry.%E7%A7%A6.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/秦/poetry.秦.0000.base.json",
+    "sha256": "0bdd8b1b5b345cbb154f273d4d01564fad02288c6559a71249336196fb273e19",
+    "bytes": 3434
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/隋/poetry.隋.0000.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E9%9A%8B/poetry.%E9%9A%8B.0000.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/隋/poetry.隋.0000.base.json",
+    "sha256": "a4c97fdc0594f74538a57ab801aba8b2f5234e75283db39930f27b5dec58f76e",
+    "bytes": 430535
+  },
+  {
+    "file": "sources/raw/poetry-source/source/诗/隋/poetry.隋.0001.base.json",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/source/%E8%AF%97/%E9%9A%8B/poetry.%E9%9A%8B.0001.base.json",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "source/诗/隋/poetry.隋.0001.base.json",
+    "sha256": "6dcd532afac271f7d556af086f97bc9c057cd070cef4d2f801f77aeb3e5ccdd8",
+    "bytes": 25591
+  },
+  {
+    "file": "sources/raw/chinese-poetry/四书五经/daxue.json",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%9B%9B%E4%B9%A6%E4%BA%94%E7%BB%8F/daxue.json",
+    "repository": "chinese-poetry/chinese-poetry",
+    "revision": "b8594f81a89752241442f2ce267d6f66f96704ee",
+    "path": "四书五经/daxue.json",
+    "sha256": "1939dfeb2cb8fde6c96fb5ce6bd1cff93df05460027c90c685f4863b05c550e8",
+    "bytes": 6767
+  },
+  {
+    "file": "sources/raw/chinese-poetry/四书五经/mengzi.json",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%9B%9B%E4%B9%A6%E4%BA%94%E7%BB%8F/mengzi.json",
+    "repository": "chinese-poetry/chinese-poetry",
+    "revision": "b8594f81a89752241442f2ce267d6f66f96704ee",
+    "path": "四书五经/mengzi.json",
+    "sha256": "349888018acd0b3fea58de92e53403b8c77640d84b1ae9d37360d5ff1966bcdc",
+    "bytes": 146745
+  },
+  {
+    "file": "sources/raw/chinese-poetry/四书五经/zhongyong.json",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%9B%9B%E4%B9%A6%E4%BA%94%E7%BB%8F/zhongyong.json",
+    "repository": "chinese-poetry/chinese-poetry",
+    "revision": "b8594f81a89752241442f2ce267d6f66f96704ee",
+    "path": "四书五经/zhongyong.json",
+    "sha256": "2962a8b52bf78c010b051622b8803a956b461813ae0ed86148e4851e7d605ed8",
+    "bytes": 13889
+  },
+  {
+    "file": "sources/raw/chinese-poetry/幽梦影/youmengying.json",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/b8594f81a89752241442f2ce267d6f66f96704ee/%E5%B9%BD%E6%A2%A6%E5%BD%B1/youmengying.json",
+    "repository": "chinese-poetry/chinese-poetry",
+    "revision": "b8594f81a89752241442f2ce267d6f66f96704ee",
+    "path": "幽梦影/youmengying.json",
+    "sha256": "02fe9f8d80ec2506e7b4b797953b15ed0145dc7ebacecab2798647ebff4419e4",
+    "bytes": 97571
+  },
+  {
+    "file": "sources/raw/chinese-poetry/曹操诗集/caocao.json",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/b8594f81a89752241442f2ce267d6f66f96704ee/%E6%9B%B9%E6%93%8D%E8%AF%97%E9%9B%86/caocao.json",
+    "repository": "chinese-poetry/chinese-poetry",
+    "revision": "b8594f81a89752241442f2ce267d6f66f96704ee",
+    "path": "曹操诗集/caocao.json",
+    "sha256": "3c44e2fd296ca99b61b73f6f276e6d6272e9ae54d5ed2adfd77dc90752f85332",
+    "bytes": 16894
+  },
+  {
+    "file": "sources/raw/chinese-poetry/楚辞/chuci.json",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/b8594f81a89752241442f2ce267d6f66f96704ee/%E6%A5%9A%E8%BE%9E/chuci.json",
+    "repository": "chinese-poetry/chinese-poetry",
+    "revision": "b8594f81a89752241442f2ce267d6f66f96704ee",
+    "path": "楚辞/chuci.json",
+    "sha256": "5069e733d93781cecd55405c6d4699a7c17125b3f13cf79810d68792482e5b9b",
+    "bytes": 141832
+  },
+  {
+    "file": "sources/raw/chinese-poetry/论语/lunyu.json",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+    "repository": "chinese-poetry/chinese-poetry",
+    "revision": "b8594f81a89752241442f2ce267d6f66f96704ee",
+    "path": "论语/lunyu.json",
+    "sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c",
+    "bytes": 74799
+  },
+  {
+    "file": "sources/raw/chinese-poetry/诗经/shijing.json",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+    "repository": "chinese-poetry/chinese-poetry",
+    "revision": "b8594f81a89752241442f2ce267d6f66f96704ee",
+    "path": "诗经/shijing.json",
+    "sha256": "3c7ca54d59424542ada99adfcc85420287fbbd5c8a511e9baf705cb2b04051e7",
+    "bytes": 156972
+  },
+  {
+    "file": "sources/raw/poetry-source/LICENSE",
+    "url": "https://raw.githubusercontent.com/snowtraces/poetry-source/815fd2d12d231a1ad47dfe422e942e069264b2a2/LICENSE",
+    "repository": "snowtraces/poetry-source",
+    "revision": "815fd2d12d231a1ad47dfe422e942e069264b2a2",
+    "path": "LICENSE",
+    "sha256": "c4873ad96bdf3d7cce828e4883875474377d0c6314830bc39d1ba4ab503ba5bd",
+    "bytes": 1067
+  },
+  {
+    "file": "sources/raw/chinese-poetry/LICENSE",
+    "url": "https://raw.githubusercontent.com/chinese-poetry/chinese-poetry/b8594f81a89752241442f2ce267d6f66f96704ee/LICENSE",
+    "repository": "chinese-poetry/chinese-poetry",
+    "revision": "b8594f81a89752241442f2ce267d6f66f96704ee",
+    "path": "LICENSE",
+    "sha256": "c195319aeaa3ffcbe16aa5d26eec19eae5a42f84337dd2b3dc3c9d5ccbbd6507",
+    "bytes": 1076
+  }
+]

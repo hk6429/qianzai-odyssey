@@ -1,0 +1,98 @@
+[
+  {
+    "file": "sources/raw/gushiwen/README.md",
+    "url": "https://raw.githubusercontent.com/aopao/chinese-gushiwen/c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8/README.md",
+    "revision": "c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8",
+    "sha256": "1c6025b5e66e6ce97aefdad5c9cd5ef4d7378f2666fde3fb788c1ade4a63b7b0"
+  },
+  {
+    "file": "sources/raw/gushiwen/guwen/guwen0-1000.json",
+    "url": "https://raw.githubusercontent.com/aopao/chinese-gushiwen/c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8/guwen/guwen0-1000.json",
+    "revision": "c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8",
+    "sha256": "59eb512f75c69300f8520360b256217bf8a8090dfedc6442f6aeb6555f4d4741"
+  },
+  {
+    "file": "sources/raw/gushiwen/guwen/guwen1001-2000.json",
+    "url": "https://raw.githubusercontent.com/aopao/chinese-gushiwen/c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8/guwen/guwen1001-2000.json",
+    "revision": "c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8",
+    "sha256": "08b1bd77befcaad4432921c2e3b58455083faaa7a9daa547cb6983b7a92d27f2"
+  },
+  {
+    "file": "sources/raw/gushiwen/guwen/guwen2001-3000.json",
+    "url": "https://raw.githubusercontent.com/aopao/chinese-gushiwen/c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8/guwen/guwen2001-3000.json",
+    "revision": "c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8",
+    "sha256": "f1ffe4b844613e5ed1a50cd44d532e189e85bea85a6709f7204452076848bd6d"
+  },
+  {
+    "file": "sources/raw/gushiwen/guwen/guwen3001-4000.json",
+    "url": "https://raw.githubusercontent.com/aopao/chinese-gushiwen/c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8/guwen/guwen3001-4000.json",
+    "revision": "c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8",
+    "sha256": "d8e8774d1928b55e7babbcea8512daad44769acbdef060e56d0305f544dfb228"
+  },
+  {
+    "file": "sources/raw/gushiwen/guwen/guwen4001-5000.json",
+    "url": "https://raw.githubusercontent.com/aopao/chinese-gushiwen/c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8/guwen/guwen4001-5000.json",
+    "revision": "c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8",
+    "sha256": "fca48a44043e6ea874151698560311c64619e2e1919fe8d6721d50a111518a02"
+  },
+  {
+    "file": "sources/raw/gushiwen/guwen/guwen5001-6000.json",
+    "url": "https://raw.githubusercontent.com/aopao/chinese-gushiwen/c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8/guwen/guwen5001-6000.json",
+    "revision": "c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8",
+    "sha256": "ea09fc03c5c8aba06f1a69baf55bff02177179723b5f865efc2d77990a4dd095"
+  },
+  {
+    "file": "sources/raw/gushiwen/guwen/guwen6001-7000.json",
+    "url": "https://raw.githubusercontent.com/aopao/chinese-gushiwen/c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8/guwen/guwen6001-7000.json",
+    "revision": "c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8",
+    "sha256": "52cc726537d5b4ca66bed832b07843e2c5dc222a3a756be7204dff6aac7b357f"
+  },
+  {
+    "file": "sources/raw/gushiwen/guwen/guwen7001-8000.json",
+    "url": "https://raw.githubusercontent.com/aopao/chinese-gushiwen/c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8/guwen/guwen7001-8000.json",
+    "revision": "c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8",
+    "sha256": "4dcc54957d81d297564aa5f2b33060f912d571f140c1a82b405339315ccabf5d"
+  },
+  {
+    "file": "sources/raw/gushiwen/guwen/guwen8001-9000.json",
+    "url": "https://raw.githubusercontent.com/aopao/chinese-gushiwen/c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8/guwen/guwen8001-9000.json",
+    "revision": "c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8",
+    "sha256": "9095eb3ffe3825143fd1cca586245413a333fcc02064d3ad8950fad9bb1312ea"
+  },
+  {
+    "file": "sources/raw/gushiwen/guwen/guwen9001-10000.json",
+    "url": "https://raw.githubusercontent.com/aopao/chinese-gushiwen/c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8/guwen/guwen9001-10000.json",
+    "revision": "c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8",
+    "sha256": "c6c0515723ba36c3632288c86be79756d66a25365be82488c18fdcb46fd78fb6"
+  },
+  {
+    "file": "sources/raw/gushiwen/sentence/sentence1-10000.json",
+    "url": "https://raw.githubusercontent.com/aopao/chinese-gushiwen/c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8/sentence/sentence1-10000.json",
+    "revision": "c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8",
+    "sha256": "76ffc5bb3512ddf9487ab6fe320527ca57808bd2a7fa85815770efa2d4b38cfa"
+  },
+  {
+    "file": "sources/raw/gushiwen/writer/writer0-1000.json",
+    "url": "https://raw.githubusercontent.com/aopao/chinese-gushiwen/c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8/writer/writer0-1000.json",
+    "revision": "c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8",
+    "sha256": "21076995d0de4de049b5cb2d9eaf058b5a40f5f0235f470e6084a8bc0ee00238"
+  },
+  {
+    "file": "sources/raw/gushiwen/writer/writer1001-2000.json",
+    "url": "https://raw.githubusercontent.com/aopao/chinese-gushiwen/c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8/writer/writer1001-2000.json",
+    "revision": "c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8",
+    "sha256": "042da63909cfbbf4b256535a2023468695410c429035677c8fc44a4829e3176a"
+  },
+  {
+    "file": "sources/raw/gushiwen/writer/writer2001-3000.json",
+    "url": "https://raw.githubusercontent.com/aopao/chinese-gushiwen/c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8/writer/writer2001-3000.json",
+    "revision": "c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8",
+    "sha256": "bcc397af9d9415a657a2adca54c9de24b2997ba447902b752a6197e40af0f2e4"
+  },
+  {
+    "file": "sources/raw/gushiwen/writer/writer3001-4000.json",
+    "url": "https://raw.githubusercontent.com/aopao/chinese-gushiwen/c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8/writer/writer3001-4000.json",
+    "revision": "c2345d0abf2404b8b3601e4afc2e8fd12f90d6c8",
+    "sha256": "55f412cceb5361df655820a31e40a06ba438faf9a109fa2e816730170ef6411b"
+  }
+]

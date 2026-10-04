@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env*
+!.env.example
+artifacts/
+.wrangler/
+sources/raw/
+sources/*-tree.json
+assets/*.png
+__pycache__/

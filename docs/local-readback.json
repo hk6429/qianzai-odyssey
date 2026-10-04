@@ -1,0 +1,104 @@
+{
+  "base": "http://127.0.0.1:4208/",
+  "assets": [
+    {
+      "file": "index.html",
+      "status": 200,
+      "sha256Matches": true,
+      "contentType": "text/html; charset=utf-8",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "style.css",
+      "status": 200,
+      "sha256Matches": true,
+      "contentType": "text/css; charset=utf-8",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "app.js",
+      "status": 200,
+      "sha256Matches": true,
+      "contentType": "text/javascript; charset=utf-8",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "engine.js",
+      "status": 200,
+      "sha256Matches": true,
+      "contentType": "text/javascript; charset=utf-8",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "story.js",
+      "status": 200,
+      "sha256Matches": true,
+      "contentType": "text/javascript; charset=utf-8",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "_headers",
+      "status": 200,
+      "sha256Matches": true,
+      "contentType": "application/octet-stream",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "SOURCE-NOTICES.md",
+      "status": 200,
+      "sha256Matches": true,
+      "contentType": "application/octet-stream",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "data/questions.json",
+      "status": 200,
+      "sha256Matches": true,
+      "contentType": "application/json; charset=utf-8",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "data/works.json",
+      "status": 200,
+      "sha256Matches": true,
+      "contentType": "application/json; charset=utf-8",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "data/curriculum.json",
+      "status": 200,
+      "sha256Matches": true,
+      "contentType": "application/json; charset=utf-8",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "assets/characters.webp",
+      "status": 200,
+      "sha256Matches": true,
+      "contentType": "image/webp",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "assets/dynasties.webp",
+      "status": 200,
+      "sha256Matches": true,
+      "contentType": "image/webp",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "assets/hero.webp",
+      "status": 200,
+      "sha256Matches": true,
+      "contentType": "image/webp",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "assets/seal.svg",
+      "status": 200,
+      "sha256Matches": true,
+      "contentType": "image/svg+xml",
+      "nosniff": "nosniff"
+    }
+  ],
+  "privatePaths404": 3
+}

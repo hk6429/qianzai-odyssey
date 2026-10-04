@@ -1,7 +1,9 @@
 {
-  "index.html": "384b84b8ffa7bf0e3a9e74142f285b447fd60c9fdc5a7b7aaa7173dfcdda4dbd",
+  "index.html": "e41cf9af00d2de6e2fba568cf6f9a060258888bc16bb8efeff76b2c577f27cae",
   "style.css": "24f781d23dafcea09c6871ffc86b28d401dfc0000049eebd1c6992f5b689136d",
-  "app.js": "cd9fac8841cdc3891e9b137c95b160687ada4ce67b63a5e19209698b2ad9d378",
+  "immersive.css": "ff021d6e83b6ea515fb91936ea4c9421654fad129a2ecca131a0f2aed03e76ca",
+  "immersive.js": "0dcf27b62574ff79708720a4fcb109582b289f26907c755a58e65aab51062fcc",
+  "app.js": "a8e126ad3e028a9465fcef48d9769b82fa836b4b522b471010f26fec20f42234",
   "engine.js": "3a7148543aed5d15eb80a843ae98360c81928c86f1c08b9de795d8f2eba2b508",
   "story.js": "1f20e04d4a4554ea58c7678ede084baa2c450db3e7522f7b189dfd26465a2968",
   "_headers": "7701ff23207e4b40cbcb1de83e051ec28a7557da7fca7f17fa34f10f52ed820d",
@@ -9,8 +11,10 @@
   "data/questions.json": "fe2f7f739652a962ac75e162b3f5ab9e84c1a3bf14aa88b9a3cfee395ba1bee6",
   "data/works.json": "4909d5542a3dff02d96100c322425198df954991dff9598370ea303ed12ea1f5",
   "data/curriculum.json": "8c7755217beedb751700b471e4faffef8ba5f3ed7f0c3de020c5e8e2f9e46ce0",
+  "assets/arrival.webp": "611ce20fb4cca9d40040e9ba082762bd7060d9a05a79d89cbd33038249a35fae",
   "assets/characters.webp": "f47ebd45c9e229afb0e8886bb1b76da0af9fdf98d8050de37a0bc12a8d9baeaf",
   "assets/dynasties.webp": "759762f289eb699239e2b5f2792043bb741f02ddfc8a6977206bbc55e847b6f1",
+  "assets/guides.webp": "8d831a130a506000d98b7c3ee4a9fbe56ae0f2b7a73916fe89fb16ed1626d334",
   "assets/hero.webp": "3cb45a236cd2e1fe791f096db01a519ffb2a68f61b70d052fcc8ddc88f338ac0",
   "assets/seal.svg": "14614ad4880408d64eb497be4accff31233d06a4ca3c7025dba461851bbbcdaf"
 }

@@ -1,0 +1,147 @@
+{
+  "assets": [
+    {
+      "file": "SOURCE-NOTICES.md",
+      "status": 200,
+      "sha256": "416ccc0fd4bb469ed86f2f31f601147def3ff35e3aac80ee6b2b9a25ebe68c5c",
+      "match": true,
+      "type": "text/markdown",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "index.html",
+      "status": 200,
+      "sha256": "e41cf9af00d2de6e2fba568cf6f9a060258888bc16bb8efeff76b2c577f27cae",
+      "match": true,
+      "type": "text/html",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "story.js",
+      "status": 200,
+      "sha256": "1f20e04d4a4554ea58c7678ede084baa2c450db3e7522f7b189dfd26465a2968",
+      "match": true,
+      "type": "text/javascript",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "style.css",
+      "status": 200,
+      "sha256": "24f781d23dafcea09c6871ffc86b28d401dfc0000049eebd1c6992f5b689136d",
+      "match": true,
+      "type": "text/css",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "engine.js",
+      "status": 200,
+      "sha256": "3a7148543aed5d15eb80a843ae98360c81928c86f1c08b9de795d8f2eba2b508",
+      "match": true,
+      "type": "text/javascript",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "immersive.js",
+      "status": 200,
+      "sha256": "0dcf27b62574ff79708720a4fcb109582b289f26907c755a58e65aab51062fcc",
+      "match": true,
+      "type": "text/javascript",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "app.js",
+      "status": 200,
+      "sha256": "a8e126ad3e028a9465fcef48d9769b82fa836b4b522b471010f26fec20f42234",
+      "match": true,
+      "type": "text/javascript",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "immersive.css",
+      "status": 200,
+      "sha256": "ff021d6e83b6ea515fb91936ea4c9421654fad129a2ecca131a0f2aed03e76ca",
+      "match": true,
+      "type": "text/css",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "data/questions.json",
+      "status": 200,
+      "sha256": "fe2f7f739652a962ac75e162b3f5ab9e84c1a3bf14aa88b9a3cfee395ba1bee6",
+      "match": true,
+      "type": "application/json",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "data/works.json",
+      "status": 200,
+      "sha256": "4909d5542a3dff02d96100c322425198df954991dff9598370ea303ed12ea1f5",
+      "match": true,
+      "type": "application/json",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "data/curriculum.json",
+      "status": 200,
+      "sha256": "8c7755217beedb751700b471e4faffef8ba5f3ed7f0c3de020c5e8e2f9e46ce0",
+      "match": true,
+      "type": "application/json",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "assets/hero.webp",
+      "status": 200,
+      "sha256": "3cb45a236cd2e1fe791f096db01a519ffb2a68f61b70d052fcc8ddc88f338ac0",
+      "match": true,
+      "type": "image/webp",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "assets/guides.webp",
+      "status": 200,
+      "sha256": "8d831a130a506000d98b7c3ee4a9fbe56ae0f2b7a73916fe89fb16ed1626d334",
+      "match": true,
+      "type": "image/webp",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "assets/arrival.webp",
+      "status": 200,
+      "sha256": "611ce20fb4cca9d40040e9ba082762bd7060d9a05a79d89cbd33038249a35fae",
+      "match": true,
+      "type": "image/webp",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "assets/seal.svg",
+      "status": 200,
+      "sha256": "14614ad4880408d64eb497be4accff31233d06a4ca3c7025dba461851bbbcdaf",
+      "match": true,
+      "type": "image/svg+xml",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "assets/characters.webp",
+      "status": 200,
+      "sha256": "f47ebd45c9e229afb0e8886bb1b76da0af9fdf98d8050de37a0bc12a8d9baeaf",
+      "match": true,
+      "type": "image/webp",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "assets/dynasties.webp",
+      "status": 200,
+      "sha256": "759762f289eb699239e2b5f2792043bb741f02ddfc8a6977206bbc55e847b6f1",
+      "match": true,
+      "type": "image/webp",
+      "nosniff": "nosniff"
+    }
+  ],
+  "excluded": {
+    ".env": 404,
+    "engine.test.mjs": 404,
+    "scripts/build.mjs": 404,
+    "_headers": 404
+  },
+  "allMatch": true
+}

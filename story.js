@@ -24,4 +24,11 @@ const volumes=[
 ];
 export const regions=volumes.map(([name,subtitle,intro,request,steps,seal],i)=>({name,subtitle,tag:`第 ${i+1} 卷・${subtitle}`,intro,request,steps:steps.split('|'),seal,asset:'dynasties',position:`${i%5*25}% ${i<5?0:100}%`,mentor:companions[i],choices:['先聽文人的故事','先整理散落的書頁'],echo:[`${companions[i].name}把一路聽見的聲音寫進卷邊，成為你下次重讀的線索。`,'你將書頁依次整理。原來，留意一句話的前後，也是理解的開始。'],ending:`「${subtitle}」重新有了完整的墨跡。${companions[i].name}將「${seal}」印記交給你，請你把這些聲音帶往下一程。`}));
 const beats=['','你沿著散墨留下的方向，找到一張尚未讀完的詩箋。先認清作者與篇名，再試著接回句子。','這一頁的聲音與上一頁不同。同行的文人提醒你：把文字放回作品，才能看見它的意思。','風景在句子裡慢慢成形。你讀過一次，再閉眼回想，讓散落的詞句有了位置。','一個熟悉的意象又出現了。看似相近的選項，卻通向不同的詩句；你決定讀仔細一點。','行到半卷，先在燈下歇腳。重逢舊句，再認識新句，都是補卷人的功課。','散頁上有一句讓你停住腳步的話。你展開完整原文，找找它之前與之後發生了什麼。','這次不急著看選項。試著在心裡接下去，再讓文字與記憶相遇。','頁角透出微光。那些答錯後重新讀懂的句子，也成了書卷裡重要的一部分。','最後一頁正在等你。將找到的句子依序放回，替這一卷留下完整的回聲。'];
-export function chapterStory(index,choice){const r=regions[Math.floor(index/10)],n=index%10;return {title:r.steps[n],text:n===0?r.intro:`${r.mentor.name}與你走進「${r.steps[n]}」。${beats[n]}`,echo:r.echo[choice]||'',ending:n===9?r.ending:`「${r.steps[n]}」已留下你的字跡。下一頁是「${r.steps[n+1]}」。`};}
+export function chapterStory(index,choice){
+ const ri=Math.floor(index/10),r=regions[ri],n=index%10,nextRegion=regions[ri+1];
+ const before=n===0?r.intro:`上一小關「${r.steps[n-1]}」的散頁已收齊。${r.mentor.name}循著頁角的記號，帶你來到「${r.steps[n]}」，繼續修補「${r.subtitle}」。`;
+ const mission=`${r.mentor.name}請你讀回「${r.steps[n]}」這一疊散頁，認清原句與出處，再將缺句接回。${r.request}`;
+ const resolution=n===9?r.ending:`「${r.steps[n]}」的散頁已全部找回。${r.mentor.name}把這一疊依次放回「${r.subtitle}」，頁角浮出下一站的記號。`;
+ const next=n<9?`循著記號前往「${r.steps[n+1]}」。還要修好本卷其餘散頁，才能取得「${r.seal}」印記。`:nextRegion?`本卷修復完成；下一卷是${nextRegion.name}。${nextRegion.intro}`:'十卷都已修復。帶著沿途的文句，回讀你親手編成的千載書卷。';
+ return {title:r.steps[n],before,mission,resolution,next,promise:`才能把「${r.steps[n]}」這一疊散頁放回卷中。`,text:`${before}這一次，${mission}`,echo:r.echo[choice]||'',ending:resolution+next};
+}

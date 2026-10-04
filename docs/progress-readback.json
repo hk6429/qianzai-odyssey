@@ -1,0 +1,50 @@
+{
+  "checkedAt": "2026-10-04T09:00:40.955044+00:00",
+  "assets": [
+    {
+      "file": "app.js",
+      "url": "https://qianzai-odyssey.hk6429.workers.dev/app.js",
+      "status": 200,
+      "sha256": "1387a4565f923a1b3b75ff8485d79f2e04c80915e6082bb62f739cc6a1bc4adc",
+      "matches": true,
+      "mime": "text/javascript",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "story.js",
+      "url": "https://qianzai-odyssey.hk6429.workers.dev/story.js",
+      "status": 200,
+      "sha256": "a9e4f2ace8810fdc65290458b4374bf1b17009bf820f657f149b5ea9a0787ff4",
+      "matches": true,
+      "mime": "text/javascript",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "journey-progress.js",
+      "url": "https://qianzai-odyssey.hk6429.workers.dev/journey-progress.js",
+      "status": 200,
+      "sha256": "49292ff290825a876c0b718ab2093775e62a138d4369de19d2aec68f86a9bc91",
+      "matches": true,
+      "mime": "text/javascript",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "immersive.js",
+      "url": "https://qianzai-odyssey.hk6429.workers.dev/immersive.js",
+      "status": 200,
+      "sha256": "fa1abe45bb566788972a58df1bed43ac2bb48c3dd29b0e8873746904d0d2aa45",
+      "matches": true,
+      "mime": "text/javascript",
+      "nosniff": "nosniff"
+    },
+    {
+      "file": "style.css",
+      "url": "https://qianzai-odyssey.hk6429.workers.dev/style.css",
+      "status": 200,
+      "sha256": "295bba43cf17240f077151fb2fb667b6c0a476d3736228549e45ebd6cd3761d9",
+      "matches": true,
+      "mime": "text/css",
+      "nosniff": "nosniff"
+    }
+  ]
+}

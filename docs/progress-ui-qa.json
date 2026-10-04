@@ -1,0 +1,14 @@
+{
+  "viewport": {
+    "width": 390,
+    "horizontalOverflow": false
+  },
+  "consoleErrors": [],
+  "testsTotalAcrossFourSites": 218,
+  "productionVersion": "3e45217a-5c58-43e0-96f6-7c60f1e0226f",
+  "scenarios": [
+    "resume wrong explanation",
+    "5/100 collected, 0/10 chapters",
+    "partial batch story no premature resolution"
+  ]
+}

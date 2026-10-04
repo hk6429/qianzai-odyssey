@@ -4,7 +4,7 @@ const root=new URL('../',import.meta.url),out=new URL('dist/',root);
 const bank=JSON.parse(await readFile(new URL('data/questions.json',root)));
 if(bank.length!==10000||new Set(bank.map(q=>q.id)).size!==10000)throw Error('萬題資料驗證失敗');
 await rm(out,{recursive:true,force:true});await mkdir(out,{recursive:true});
-const files=['index.html','style.css','immersive.css','immersive.js','app.js', 'choice-keyboard.js','engine.js','story.js','_headers','SOURCE-NOTICES.md'];
+const files=['index.html','style.css','immersive.css','immersive.js','app.js', 'choice-keyboard.js','journey-progress.js','engine.js','story.js','_headers','SOURCE-NOTICES.md'];
 for(const dir of ['data','assets'])await mkdir(new URL(dir+'/',out),{recursive:true});
 files.push(...['questions','works','curriculum'].map(n=>'data/'+n+'.json'));
 files.push(...(await readdir(new URL('assets/',root))).filter(f=>/\.(webp|svg)$/.test(f)).map(f=>'assets/'+f));

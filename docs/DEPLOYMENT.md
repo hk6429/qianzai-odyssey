@@ -1,5 +1,3 @@
-# 千載字旅部署完成
-
 # 正式部署驗證
 
 - 網址：https://qianzai-odyssey.hk6429.workers.dev/
@@ -13,5 +11,3 @@
 - 瀏覽器警告與錯誤紀錄為空。
 - 已另開無 ?test 的首頁並保留分頁，正式使用者進度顯示 0 題。
 - 證據：production-readback.json、screenshots/production-home.png、screenshots/production-mobile.png。
-
-既有墨島字旅未更動。原文審訂與古籍校勘限制維持來源說明。

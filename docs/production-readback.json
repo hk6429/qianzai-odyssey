@@ -1,0 +1,115 @@
+{
+  "url": "https://qianzai-odyssey.hk6429.workers.dev",
+  "version": "fb56060d-d555-4863-a36d-91928bf8ec12",
+  "assets": [
+    {
+      "file": "index.html",
+      "status": 200,
+      "sha256Matches": true,
+      "mime": "text/html",
+      "nosniff": true
+    },
+    {
+      "file": "style.css",
+      "status": 200,
+      "sha256Matches": true,
+      "mime": "text/css",
+      "nosniff": true
+    },
+    {
+      "file": "app.js",
+      "status": 200,
+      "sha256Matches": true,
+      "mime": "text/javascript",
+      "nosniff": true
+    },
+    {
+      "file": "engine.js",
+      "status": 200,
+      "sha256Matches": true,
+      "mime": "text/javascript",
+      "nosniff": true
+    },
+    {
+      "file": "story.js",
+      "status": 200,
+      "sha256Matches": true,
+      "mime": "text/javascript",
+      "nosniff": true
+    },
+    {
+      "file": "SOURCE-NOTICES.md",
+      "status": 200,
+      "sha256Matches": true,
+      "mime": "text/markdown",
+      "nosniff": true
+    },
+    {
+      "file": "data/questions.json",
+      "status": 200,
+      "sha256Matches": true,
+      "mime": "application/json",
+      "nosniff": true
+    },
+    {
+      "file": "data/works.json",
+      "status": 200,
+      "sha256Matches": true,
+      "mime": "application/json",
+      "nosniff": true
+    },
+    {
+      "file": "data/curriculum.json",
+      "status": 200,
+      "sha256Matches": true,
+      "mime": "application/json",
+      "nosniff": true
+    },
+    {
+      "file": "assets/characters.webp",
+      "status": 200,
+      "sha256Matches": true,
+      "mime": "image/webp",
+      "nosniff": true
+    },
+    {
+      "file": "assets/dynasties.webp",
+      "status": 200,
+      "sha256Matches": true,
+      "mime": "image/webp",
+      "nosniff": true
+    },
+    {
+      "file": "assets/hero.webp",
+      "status": 200,
+      "sha256Matches": true,
+      "mime": "image/webp",
+      "nosniff": true
+    },
+    {
+      "file": "assets/seal.svg",
+      "status": 200,
+      "sha256Matches": true,
+      "mime": "image/svg+xml",
+      "nosniff": true
+    }
+  ],
+  "excluded": [
+    {
+      "path": ".env",
+      "status": 404
+    },
+    {
+      "path": "sources/raw/gushiwen/guwen/guwen0-1000.json",
+      "status": 404
+    },
+    {
+      "path": "scripts/build-corpus.py",
+      "status": 404
+    },
+    {
+      "path": "_headers",
+      "status": 404
+    }
+  ]
+}
